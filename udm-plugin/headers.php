@@ -1,4 +1,5 @@
 <?php
+echo 'sssd';
 	if(is_home() || is_archive())
 	{
 		$pid = get_option( 'page_for_posts' );
